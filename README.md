@@ -2,15 +2,42 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-
+<!-- This is a comment -->
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunmalik28&label=Profile%20views&color=0e75b6&style=flat" alt="arunmalik28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunmalik28" alt="arunmalik28" /></a> </p>
+<p align="left">
+I’m a Skilled Software Engineer with 3+ years of experience in building robust and scalable enterprise solutions. My expertise spans across Oracle Fusion, OIC, VBCS, SQL, PL/SQL, Unix, and JavaScript.
 
-- 📫 How to reach me **arun.malik0028@gmail.com**
+Currently, I'm deepening my knowledge in Full-Stack Development, focusing on the MERN stack, to broaden my capabilities and work on more dynamic and modern web applications.
+
+</p>
+
+<p>🔧 Technical Skills:</p>
+<ul>
+<li>Backend: SQL, PL/SQL, Node.js, Oracle Fusion, OIC</li>
+<li>Frontend: React.js, VBCS, HTML, CSS, JavaScript</li>
+<li>Tools & Platforms: Git, Unix, MongoDB (learning in progress)</li>
+</ul>
+
+<p>⚡ Strengths:</p>
+<ul>
+<li>Quick learner and highly adaptable</li>
+<li>Recognized for owning and delivering critical projects on time</li>
+<li>Strong in designing, implementing, and testing production-ready applications</li>
+</ul>
+
+
+📫 Let’s Connect:
+I’m always open to collaboration, learning, and new opportunities. Check out my projects or drop a message!
+How to reach me **arun.malik0028@gmail.com**
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunmalik28&label=Profile%20views&color=0e75b6&style=flat" alt="arunmalik28" /> </p> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunmalik28" alt="arunmalik28" /></a> </p> -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +50,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunmalik28&show_icons=true&locale=en&layout=compact" alt="arunmalik28" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunmalik28&show_icons=true&locale=en" alt="arunmalik28" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunmalik28&show_icons=true&locale=en" alt="arunmalik28" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunmalik28&" alt="arunmalik28" /></p>
 
